@@ -42,7 +42,7 @@
 
 ## :book: **Autor**
 
-<p>Developed by <a href="https://github.com/funnyzinho"><strong> Pedro Mendes </strong></a>, According to the Frontend Mentor <a href= "https://www.frontendmentor.io/"> <strong>Frontend Mentor</strong></a> template.</ p>
+<p>Developed by <a href="https://github.com/funnyzinho"><strong> Pedro Mendes</strong></a>, according to the Frontend Mentor <a href= "https://www.frontendmentor.io/"> <strong>Frontend Mentor</strong></a> template.</ p>
 
 ## :handshake: **Connect with me**
 
