@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --cor0: hsl(223, 47%, 23%);
+  --cor1: hsl(245, 75%, 52%);
+  --cor2: hsl(224, 23%, 55%);
+  --cor3: hsl(225, 100%, 94%);
+  --cor4: hsl(225, 100%, 98%);
+
+  --font-h1: 3.2rem;
+  --font-p: 1.6rem;
+
+  --font-padrao: "Red Hat Display", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: var(--font-padrao);
+  font-size: var(--font-p);
+  background-color: var(--cor3);
+
+  height: 100vh;
+  width: 100vw;
+
+  font-size: 1.6rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  display: block; /*  Por padrão as imagens vem em display inline-block*/
+  max-width: 100%; /*  A imagem sempre vai ocupar 100% do width do seu pai*/
+}
+
+.image-onda img {
+  display: block;
+  width: 100vw;
+  height: 50vh;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.card-container {
+  background-color: var(--cor4);
+  width: 375px;
+  height: 600px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.card-section-content {
+  padding: 30px;
+  height: 70%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.card-image img {
+  width: 375px;
+
+  border-radius: 15px 15px 0px 0px;
+}
+
+.card-section-text h1 {
+  font-size: 2.6rem;
+  font-weight: 900;
+  color: var(--cor0);
+}
+
+.card-section-text p {
+  margin-top: 15px;
+  color: var(--cor2);
+  font-size: 1.6rem;
+}
+
+.box-preco {
+  background-color: hsla(225, 100%, 94%, 0.42);
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.box-preco h2 {
+  padding-left: 10px;
+  font-size: 1.6rem;
+}
+
+.box-preco p {
+  font-size: 1.4rem;
+  color: var(--cor2);
+}
+
+.card-plan {
+  display: flex;
+  flex-direction: column;
+}
+
+.change-btn {
+  margin-left: auto;
+  color: var(--cor1);
+  font-weight: 700;
+}
+
+.card-btns {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.card-btns .btn {
+  text-decoration: none;
+
+  font-size: 1.4rem;
+  font-weight: 700;
+
+  padding: 10px;
+  border-radius: 10px;
+
+  color: var(--cor2);
+}
+
+.card-btns .btn.btn-background {
+  background-color: var(--cor1);
+  color: var(--cor4);
+  box-shadow: 0px 5px 30px rgba(48, 35, 190, 0.6);
+}
+
+@media screen and (max-width: 375px) {
+  body {
+    padding: 0 15px;
+  }
+
+  html {
+    font-size: 50%;
+  }
+
+  .card-container {
+    height: 470px;
+  }
+
+  .card-section-content {
+    padding: 15px;
+  }
+
+  .box-preco h2 {
+    font-size: 0.9em;
+    padding-left: 0;
+  }
+
+  .card-btns {
+    margin-top: 10px;
+  }
+}
