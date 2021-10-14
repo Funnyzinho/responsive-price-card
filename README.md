@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Card&color=005eff&style=for-the-badge&logo=Ghost"/></a> 
+ <a href="https://funnyzinho.github.io/responsive-price-card/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Card&color=005eff&style=for-the-badge&logo=Ghost"/></a> 
 
 ## :zap: **Tech Stack**
 
