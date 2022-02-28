@@ -1,9 +1,9 @@
 <h1 align="center">
-    <a href="https://funnyzinho.github.io/responsive-price-card/"> <img src="./assets/images/favicon-32x32.png" alt="favico"></img> Responsive Price Card</a> 
+    <a href="https://devpedrom.github.io/responsive-price-card/"> <img src="./assets/images/favicon-32x32.png" alt="favico"></img> Responsive Price Card</a> 
 </h1>
 
 <div align="center">
-<a href="https://github.com/Funnyzinho/responsive-price-card/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Funnyzinho/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
+<a href="https://github.com/devpedrom/responsive-price-card/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/devpedrom/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
 </a></div>
 
 <br>
@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/responsive-price-card/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Card&color=005eff&style=for-the-badge&logo=Ghost"/></a> 
+<a href="https://devpedrom.github.io/responsive-price-card/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Card&color=005eff&style=for-the-badge&logo=Ghost"/></a>
 
 ## :zap: **Tech Stack**
 
@@ -42,12 +42,12 @@
 
 ## :book: **Autor**
 
-<p>Developed by <a href="https://github.com/funnyzinho"><strong> Pedro Mendes</strong></a>, according to the Frontend Mentor <a href= "https://www.frontendmentor.io/"> <strong>Frontend Mentor</strong></a> template.</ p>
+<p>Developed by <a href="https://github.com/devpedrom"><strong> Pedro Mendes</strong></a>, according to the Frontend Mentor <a href= "https://www.frontendmentor.io/"> <strong>Frontend Mentor</strong></a> template.</ p>
 
 ## :handshake: **Connect with me**
 
 <div align="left">
-  <a href="https://github.com/funnyzinho" target="_blank">
+  <a href="https://github.com/devpedrom" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
       alt=github style="margin-bottom: 5px;" />
   </a>
