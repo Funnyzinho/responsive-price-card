@@ -9,7 +9,6 @@
 <br>
 
 <p align="center">
- <a href="#blush-why">Why</a> •
  <a href="#zap-tech-stack">Tech Stack</a> • 
  <a href="#clapper-preview">Preview</a> •
  <a href="#book-autor">Autor</a> • 
@@ -23,10 +22,6 @@
 <div align="center">
 <kbd><img src="./assets/images/preview.gif" alt="Gif"></img></kbd>
 </div>
-
-## :blush: **Why?**
-
-<p>This project was a clone of Frontend Mentor, in which I developed a 100% responsive card. Training semantic HTML5, CSS3 Flexbox, Media-Query, and other concepts</p>
 
 ## :clapper: **Preview**
 
